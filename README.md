@@ -31,6 +31,9 @@ Osmotic coefficient
 
 Comprehensive visualizations of predicted vs. actual data
 
+Limited to chloride electrolytes so far
+
+
 
 Machine Learning Backbone
 
